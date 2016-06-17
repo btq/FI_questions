@@ -28,7 +28,7 @@ t9509b,52,d12948414796t,19-Aug-2014,erlotinib hcl
 t9509b,52,t12520587527e,1-Oct-2015,bevacizumab
 t9509b,52,x12514302777u,2-Jun-2014,bevacizumab
 t9509b,52,p12175312110t,21-Jan-2013,bevacizumab
-s9417f,29,k11253412867l,2017-01-29,nivolumab
+s9417f,29,k11253412867l,,nivolumab
 s9417f,29,s10845324909e,20-Feb-2014,nivolumab
 s9417f,29,a7548173565o,15-Aug-2013,axitinib
 s9417f,29,h7336725593a,9-Apr-2015,nivolumab
@@ -50,7 +50,7 @@ j8916h,59,e4398954015w,2-Jul-2015,erlotinib hcl
 j8916h,59,v4397158747y,26-Dec-2013,nivolumab
 j8916h,59,c3060475769e,28-Apr-2015,nivolumab
 j8916h,59,w2975762174e,2-Jan-2015,bevacizumab
-j8916h,59,b2974753619j,3-Apr-2019,nivolumab
+j8916h,59,b2974753619j,,nivolumab
 h8801t,36,t2504117505e,9-Nov-2011,bevacizumab
 h8801t,36,j2434547445a,19-Mar-2013,erlotinib hcl
 h8801t,36,u2425841480p,8-Sep-2015,bevacizumab
@@ -62,7 +62,7 @@ d8454u,71,e2212908079d,28-Dec-2014,erlotinib hcl
 d8454u,71,i2129228210z,19-Feb-2014,bevacizumab
 d8454u,71,z2128687603c,27-Oct-2015,bevacizumab
 d8454u,71,u2056934349o,12-Feb-2015,nivolumab
-d8454u,71,l2001625438i,2019-03-02,nivolumab
+d8454u,71,l2001625438i,,nivolumab
 t8292i,19,a1849702626e,25-Jul-2012,erlotinib hcl
 n8228o,34,t1783037329c,22-Jul-2014,nivolumab
 t8223p,25,o1241188541l,1-Aug-2014,bevacizumab
@@ -89,7 +89,7 @@ j7804r,18,v500823501d,8-Jul-2015,bevacizumab
 j7804r,18,r489075649y,23-Apr-2012,bevacizumab
 j7804r,18,k485168296d,25-Jul-2013,erlotinib hcl
 b7786f,73,a484796313w,10-May-2013,erlotinib hcl
-b7786f,73,j425845642y,2018-09-19,axitinib
+b7786f,73,j425845642y,,axitinib
 b7786f,73,o398579843a,4-Nov-2015,bevacizumab
 b7786f,73,h398274329p,16-Aug-2011,nivolumab
 b7786f,73,p349857349k,9-Jul-2013,nivolumab
@@ -108,7 +108,7 @@ i7469n,93,e119030486u,23-Jul-2012,bevacizumab
 z7390g,80,s100164700a,15-Sep-2014,bevacizumab
 d7256f,91,x97033659o,25-Mar-2013,nivolumab
 d7256f,91,q96959262n,17-Aug-2009,bevacizumab
-d7256f,91,w85169128f,2025-04-30,nivolumab
+d7256f,91,w85169128f,,nivolumab
 d7256f,91,y49647541z,3-Apr-2012,nivolumab
 g7173d,33,p48063213v,18-Jun-2015,bevacizumab
 g7173d,33,c44991000h,14-May-2014,nivolumab
@@ -224,7 +224,7 @@ l4243i,57,x606331f,14-Mar-2014,bevacizumab
 y4215o,74,q593281g,2-Dec-2013,erlotinib hcl
 y4215o,74,l548356e,30-Apr-2013,erlotinib hcl
 u4176p,85,e541321g,22-Oct-2014,bevacizumab
-d4170t,100,a528470g,25-Sep-2020,bevacizumab
+d4170t,100,a528470g,,bevacizumab
 d4170t,100,g518097j,11-Apr-2012,nivolumab
 s4096r,53,e517699w,20-Jul-2009,bevacizumab
 s4096r,53,x506720h,2-Mar-2015,erlotinib hcl
@@ -300,6 +300,6 @@ w2379e,42,y62906o,19-Dec-2013,bevacizumab
 w2379e,42,w60701w,22-Jan-2015,bevacizumab
 l2360d,51,l51828e,19-Jul-2013,bevacizumab
 m2177s,41,g47179o,2-Jun-2012,bevacizumab
-m2177s,41,w45526h,11-Sep-2025,erlotinib hcl
+m2177s,41,w45526h,,erlotinib hcl
 m2177s,41,e35384r,16-Sep-2014,bevacizumab
 m2177s,41,e26538w,26-Sep-2014,nivolumab
