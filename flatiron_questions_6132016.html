@@ -176,21 +176,23 @@ div#notebook {
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="QUESTIONS">QUESTIONS<a class="anchor-link" href="#QUESTIONS">&#182;</a></h2><p>1.When presented with a new dataset or database, what steps do you generally take
+<h4 id="author:-Brian-T.-Quinn,-Ph.D.">author: Brian T. Quinn, Ph.D.<a class="anchor-link" href="#author:-Brian-T.-Quinn,-Ph.D.">&#182;</a></h4><h4 id="date:-06/17/2016">date: 06/17/2016<a class="anchor-link" href="#date:-06/17/2016">&#182;</a></h4><h4 id="email:-btquinn@gmail.com">email: btquinn@gmail.com<a class="anchor-link" href="#email:-btquinn@gmail.com">&#182;</a></h4><h2 id="QUESTIONS">QUESTIONS<a class="anchor-link" href="#QUESTIONS">&#182;</a></h2><p>1.When presented with a new dataset or database, what steps do you generally take
 to evaluate it prior to working with it?</p>
 <p><strong>Depending on the size of the data, I like to look it over in a spreadsheet form to get a sense of the columns and data types I will be dealing with. I look for missing data, duplicate rows, incorrect entries. Then I plot the data to identify outliers. Finally, I convert columns to a suitable data format.</strong></p>
 <p>2.Based on the information provided above and the attached dataset, what 3
 questions would you like to understand prior to conducting any analysis of the
 data?</p>
-<p><strong>1. Is the data accurate? That is, does it contain obvious outliers that indicate a human error in recording/entering the data. If it does have missing values, then...</strong></p>
-<p><strong>2. Can I fill in missing values? Whether it be by obtaining data from the source or to interpolate missing values that do not compromise the analysis.</strong></p>
-<p><strong>3. Do the data exhibit any bevavior I should be on the lookout for? I wat to know if there is a trend I can confirm or outliers that are to be expected.</strong></p>
-<ol>
-<li><p>How would you prep the dataset provided for analysis?  Please list steps taken and
+<ul>
+<li><p><strong>1. Is the data accurate? That is, does it contain obvious outliers that indicate a human error in recording/entering the data. If it does have missing values, then...</strong></p>
+</li>
+<li><p><strong>2. Can I fill in missing values? Whether it be by obtaining data from the source or to interpolate missing values that do not compromise the analysis.</strong></p>
+</li>
+<li><p><strong>3. Do the data exhibit any bevavior I should be on the lookout for? I want to know if there is a trend I can confirm or outliers that are to be expected.</strong></p>
+</li>
+</ul>
+<p>3.How would you prep the dataset provided for analysis?  Please list steps taken and
 provide code used to prep the tables for analysis.</p>
 <p><strong>View the data in a spreadsheet editing program. I get a sense of what data resides in each sheet and how they are related to one another. Delete any obvious junk, like the last two lines in the patients sheet and the dates from the future in the administered sheet. Next, I save each sheet to a seperate .csv and read each one in and process it. Empty values are dropped when necessary (like dates - no obvious way to interpolate a missing date in this dataset.). Illegal values are checked for as well. There were 6 patients with an unknown gender. This may be because it wasn't entered or that the form was to gender restrictive for the patient to identify.  I kept these patients in the data set and changed the stratifying code a bit to include them as much as I could.</strong></p>
-</li>
-</ol>
 <p>Using the datasets you have prepped, please answer the following questions and provide
 all code/output used. Be sure to include and explain any assumptions made when
 answering each question.</p>
